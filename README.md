@@ -13,6 +13,7 @@ Lopullista palautusta varten täytyy vielä kehittää mm.
 -  tietokannan lajennus
 -  hakutoiminnat
 -  tilastot tietokohteista käyttäjäsivussa
+-  tietoturvan parannus
 -  ulkoasut
 
 Sovellus on kehitetty kurssin esimerkkisoveluksen kehyksestä, käytetyt tiedostot viittavat esimerkkisoveluksen tiedostoihin ja sovelluksen rakenne on samanlaista.
